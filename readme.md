@@ -6,3 +6,9 @@ To run this app:
 
 1. `npm install`
 2. `npm start`
+
+
+Questions
+ 
+1. Should we store JS files in repo ?
+2. 
